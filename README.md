@@ -1,4 +1,4 @@
-Projetos referentes ao curso "Funções" no Bootcamp Inpulso Digital Innovation One.
+Projetos referentes ao curso "Funções" no Bootcamp Impulso Digital Innovation One.
 
 Atividade 1: Alunos Aprovados
 Crie uma função que recebe o array alunos e um número que irá representar a média final;
